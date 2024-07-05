@@ -16,3 +16,8 @@ A simple and Compound calculator for performing various financial calculations.
 • Run the calculator by executing node index.
 • Follow the prompts to select the type of calculation you want to perform
 
+# License
+This project is licensed under the MIT License. See LICENSE for details.
+
+# Authors:
+Naledi Ndhlovu
