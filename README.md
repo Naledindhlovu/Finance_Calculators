@@ -31,6 +31,7 @@ A simple Python program that provides two financial calculators: an investment c
    -python finance_calculators.py
 
 #picture
+![screen](https://github.com/Naledindhlovu/Finance_Calculators/assets/135599769/e959f15c-988a-4770-a97d-b3fadc723182)
 
 #Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
