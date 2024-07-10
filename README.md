@@ -14,7 +14,7 @@ A simple Python program that provides two financial calculators: an investment c
 ### Installation
  
 1. Clone the repository:
-   ```bash
+ cd finance_calculators
 • Clone the repository to your local machine using git clone https://github.com/Naledindhlovu/Finance_Calculators.git
 • Open the project in your preferred code editor or IDE
 • Run the calculator by executing node index.
